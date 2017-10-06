@@ -1,0 +1,44 @@
+@charset "utf-8";
+	
+*{ list-style:none; font-family:Arial, "맑은 고딕"; }
+body,ul,li{ margin:0; padding:0; }
+img{ border:0; }
+
+#header{ width:100%; height:200px; margin:0 auto; position:absolute; top:0; left:0; }
+
+#gnb{ width:100%; height:40px; background:#000; }
+.menu1{ width:244px; position:absolute; top:13px; left:50%; margin-left:354px; }
+.menu1 li{ float:left; font-size:14px; line-height:14px; width:80px; text-align:center; border-left:1px solid #fff; }
+.menu1 li a{ display:block; color:#fff; text-align:center; text-decoration:none; }
+.menu1 li:last-child{ border-right:1px solid #fff; }
+.menu1 li a:hover{ color:#bcbcbc; }
+
+#lnb{ width:100%; height:50px; background:rgba(255,255,255,0.5); clear:both; }
+.menu2{ width:1200px; margin:0 auto; padding:0; background:#333; }
+.menu2 li{ float:left; font-size:20px; line-height:45px; width:200px; height:50px; color:#454545; }
+.menu2 li a{ display:block; color:#000; line-height:50px; text-align:center; text-decoration:none; }
+.menu2 li a:hover{ color:#201cd8; }
+
+#mnb{ width:1200px; height:60px; margin:20px auto; }
+.logo{ width:200px; float:left; margin-left:20px; }
+.logo a{ display:block; color:#333; text-align:center; text-decoration:none; font-size:40px; }
+
+.serc{ width:182px; margin-top:32px; float:right; margin-right:20px; }
+.window{ width:182px; border-bottom:2px solid #333; float:left; }
+.input_text {
+	width:150px; height:28px; line-height:28px; margin:0; border:0;
+	background:transparent; font-weight:bold; font-size:18px; outline:none;
+}
+.sch_smit { width:30px; float:left; border:0; padding:0; background:transparent; margin-left:-30px; }
+
+#container{ width:100%; margin:0 auto; margin-top:40px; }
+
+#visual_group{ width:100%; height:800px; }
+.visual_wrap{ max-width:100%; max-height:800px; margin:0 auto; }
+
+#newest_info{ width:100%; height:400px; background:#fff; margin:50px 0; }
+.newest_wrap{ width:1200px; margin:0 auto; padding:0; }
+.newest_wrap ul li{ float:left; }
+
+#footer{ width:100%; height:100px; background:#000; margin-top:50px; }
+.footer_wrap{ width:1400px; height:100px; margin:0 auto; padding:0; }
