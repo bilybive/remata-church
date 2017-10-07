@@ -12,7 +12,7 @@
 <body>
 	<div id="nav">
 		<div id="gnb">
-			<ul class="menu1">
+			<ul class="gnb_menu">
 				<li><a href="#">로그인</a></li>
 				<li><a href="#">회원가입</a></li>
 			</ul>
@@ -27,12 +27,12 @@
 			</ul>			
 		</div>
 		<div id="lnb">
-			<ul class="menu2">
+			<ul class="lnb_menu">
 				<li><a href="./jsp/intro01.jsp">교회소개</a></li>
 				<li><a href="/media01.php">설교영상</a></li>
 				<li><a href="/greek01.php">헬라어성경</a></li>
 				<li><a href="/hebrew01.php">히브리어성경</a></li>
-				<li><a href="/remata.php">레마타</a></li>
+				<li class="ret"><a href="/remata.php">레마타</a></li>
 				<li><a href="/cummu.php">커뮤니티</a></li>
 			</ul>
 		</div>
