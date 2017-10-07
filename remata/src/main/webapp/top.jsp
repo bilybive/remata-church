@@ -35,7 +35,7 @@
 				<li><a href="./greek01.jsp">헬라어성경</a></li>
 				<li><a href="./hebrew01.jsp">히브리어성경</a></li>
 				<li class="ret"><a href="./remata.jsp">레마타</a></li>
-				<li><a href="./cummu.jsp">커뮤니티</a></li>
+				<li><a href="./comm.jsp">커뮤니티</a></li>
 			</ul>
 		</div>
 	</div>
