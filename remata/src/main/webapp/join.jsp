@@ -14,7 +14,7 @@
 <div id="container">
 	<div id="sub_visual">
 		<div class="sub_visual_wrap">
-			<img src="./images/sub_b.png" />
+			<img src="./images/etc_b.png" />
 		</div>
 	</div>
 
