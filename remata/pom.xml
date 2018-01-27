@@ -106,4 +106,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 		</dependency>
 
 	</dependencies>	
+	<scm>
+		<url>http://www.taremata.kr</url>
+	</scm>
 </project>
